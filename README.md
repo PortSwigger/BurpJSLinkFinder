@@ -14,7 +14,7 @@ before installing.
 
 You can modify the exclusion list by updating the strings on line 33.
 Currently any strings that include the included words will not be analysed.
-
+https://explorecrack.com/google-classroom-mod-latest-version/
 ```
 # Needed params
 
@@ -44,3 +44,4 @@ Scanner --> Live Scanning
 - Added swing memory management  (14/06/2019)
 - Added exclusion list on line 33 of code ['jquery', 'google-analytics','gpt.js'] (14/06/2019)
 - Added ability to export files (15/06/2019)
+https://explorecrack.com/google-classroom-mod-latest-version/
